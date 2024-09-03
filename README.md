@@ -1,2 +1,2 @@
-# Observabilidade-com-Prometheus-e-Grafana
-Projeto Observabilidade com Prometheus e Grafana
+# Observabilidade-com-Spring-Boot-Actuator-e-Prometheus
+Projeto observabilidade utilizando Spring Boot Actuator e Prometheus
