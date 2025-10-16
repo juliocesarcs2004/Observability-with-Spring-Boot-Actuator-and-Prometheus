@@ -1,2 +1,2 @@
-# Observabilidade-com-Spring-Boot-Actuator-e-Prometheus
-Projeto observabilidade utilizando Spring Boot Actuator e Prometheus
+# Observability-with-Spring-Boot-Actuator-and-Prometheus
+Observability project using Spring Boot Actuator and Prometheus.
